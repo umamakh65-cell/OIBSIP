@@ -1,0 +1,8 @@
+{
+    
+    "custom_commands": {
+        "open youtube": "https://www.youtube.com",
+        "open github": "https://github.com",
+        "open google": "https://www.google.com"
+    }
+}
