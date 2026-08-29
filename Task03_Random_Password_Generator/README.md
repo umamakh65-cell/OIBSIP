@@ -6,7 +6,7 @@ A secure graphical password generator built with Python and Tkinter. The applica
 
 ---
 
-📌 Objective
+1- Objective
 
 The objective of this project is to build a password generator that creates strong and random passwords based on user-defined requirements.
 
@@ -14,7 +14,7 @@ This project implements the Advanced Tier of the task by providing a graphical u
 
 ---
 
-✨ Features
+2- Features
 
 Password Length
 
@@ -112,7 +112,7 @@ This ensures that all sections of the application remain accessible when the win
 
 ---
 
-🖥️ User Interface
+3- User Interface
 
 The interface contains the following sections:
 
@@ -130,7 +130,7 @@ The interface is designed to keep the password-generation process simple and eas
 
 ---
 
-🔐 Security Approach
+4- Security Approach
 
 Security is an important part of this project because passwords are sensitive credentials.
 
@@ -160,7 +160,7 @@ This avoids permanently storing generated passwords.
 
 ---
 
-🧠 How Password Generation Works
+5- How Password Generation Works
 
 The password-generation process follows these steps:
 
@@ -180,7 +180,7 @@ The password-generation process follows these steps:
 
 ---
 
-📊 Password Strength Calculation
+6- Password Strength Calculation
 
 The password-strength system uses a custom score based on password characteristics.
 
@@ -207,7 +207,7 @@ The strength bar also changes according to the calculated strength level.
 
 ---
 
-✅ Input Validation
+7- Input Validation
 
 The application validates user input before generating a password.
 
@@ -227,7 +227,7 @@ It also verifies that the selected character sets remain usable after ambiguous 
 
 ---
 
-📋 Generation History Behavior
+8- Generation History Behavior
 
 The history stores a maximum of five generated passwords.
 
@@ -247,7 +247,7 @@ The history exists only for the current application session.
 
 ---
 
-🛠️ Technologies Used
+9- Technologies Used
 
 - Python — Application development
 - Tkinter — Graphical user interface
@@ -257,7 +257,7 @@ The history exists only for the current application session.
 
 ---
 
-📦 Installation
+10- Installation
 
 Prerequisites
 
@@ -278,7 +278,7 @@ pip install -r requirements.txt
 
 ---
 
-▶️ Running the Application
+11- Running the Application
 
 Navigate to the project directory and run:
 
@@ -288,7 +288,7 @@ The Random Password Generator window will open.
 
 ---
 
-🎮 How to Use
+12- How to Use
 
 Step 1 — Select Password Length
 
@@ -332,7 +332,7 @@ Scroll down to the Generation History - Last 5 section to view recently generate
 
 ---
 
-🧪 Testing
+13- Testing
 
 The application was tested to verify its main functionality and security rules.
 
@@ -358,7 +358,7 @@ All tested features are functioning as expected.
 
 ---
 
-📁 Project Structure
+14- Project Structure
 
 Task3_Random_Password_Generator/
 │
@@ -372,7 +372,7 @@ Task3_Random_Password_Generator/
 
 ---
 
-📄 requirements.txt
+15- requirements.txt
 
 The project's external dependency is:
 
@@ -386,7 +386,7 @@ string
 
 ---
 
-👨‍💻 Author
+19- Author
 
 Umama Khan
 
